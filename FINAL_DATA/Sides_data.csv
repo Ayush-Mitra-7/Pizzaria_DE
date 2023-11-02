@@ -1,0 +1,31 @@
+SIDES_ID,NAME,IS_VEG,BASE_PRICE,PRICE
+SID40001,French Fries,1,49,79
+SID40002,Mozzarella Sticks,1,59,89
+SID40003,Chicken Wings,0,99,129
+SID40004,Cheese Garlic Bread,1,69,99
+SID40005,Caesar Salad,1,79,109
+SID40006,Onion Rings,1,49,79
+SID40007,Chicken Tenders,0,89,119
+SID40008,Breadsticks,1,59,89
+SID40009,Bruschetta,1,59,89
+SID40010,Spinach Dip,1,69,99
+SID40011,Potato Wedges,1,49,79
+SID40012,Mac 'n' Cheese Bites,1,69,99
+SID40013,Mixed Vegetable Platter,1,89,119
+SID40014,Chicken Quesadilla,0,99,129
+SID40015,Buffalo Cauliflower Bites,1,59,89
+SID40016,Cheese Stuffed Mushrooms,1,69,99
+SID40017,Loaded Potato Skins,1,69,99
+SID40018,Chicken Tater Tots,0,99,129
+SID40019,Sweet Potato Fries,1,59,89
+SID40020,Spinach and Artichoke Dip,1,79,109
+SID40021,Avocado Fries,1,59,89
+SID40022,Mini Corn Dogs,0,89,119
+SID40023,Garlic Knots,1,49,79
+SID40024,Chili Cheese Fries,1,69,99
+SID40025,Calamari Rings,0,99,129
+SID40026,Caprese Skewers,1,59,89
+SID40027,Fried Pickles,1,49,79
+SID40028,Loaded Nachos,1,89,119
+SID40029,Garlic Parmesan Bread Bites,1,69,99
+SID40030,BBQ Ribs,0,119,149
