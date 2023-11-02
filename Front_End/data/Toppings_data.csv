@@ -1,0 +1,61 @@
+TOPPINGS_ID,NAME,IS_VEG,BASE_PRICE,PRICE
+TOP84580,Canadian bacon,0,99,149
+TOP89784,Broccoli,1,19,49
+TOP82363,Green olives,1,69,99
+TOP89972,Gorgonzola,1,99,149
+TOP83499,Pepperoni,0,99,149
+TOP86577,Sun-dried tomato,1,19,49
+TOP81248,Pineapple,1,69,99
+TOP89135,Fresh basil,1,19,49
+TOP85624,Roasted garlic,1,99,149
+TOP89911,Caramelized onions,1,99,149
+TOP84581,Tofu,1,99,149
+TOP89785,Clams,0,99,149
+TOP82364,Shrimp,0,99,149
+TOP89973,Fresh mozzarella,1,19,49
+TOP83500,Anchovies,0,99,149
+TOP86578,Goat cheese,1,69,99
+TOP81249,Roasted red peppers,1,99,149
+TOP89136,Zucchini,1,99,149
+TOP85625,Cheddar cheese,1,99,149
+TOP89912,Steak,0,99,149
+TOP84582,Asparagus,1,99,149
+TOP89786,Buffalo chicken,0,99,149
+TOP82365,Pesto sauce,1,19,49
+TOP89974,Kalamata olives,1,99,149
+TOP83501,BBQ sauce,1,99,149
+TOP86579,Gouda cheese,1,69,99
+TOP81250,Corn,1,19,49
+TOP89137,Eggplant,1,99,149
+TOP85626,Sliced almonds,1,99,149
+TOP89913,Tuna,0,99,149
+TOP84583,Kimchi,1,99,149
+TOP89787,Roasted eggplant,1,99,149
+TOP82366,Cilantro,1,69,99
+TOP89975,Blue cheese,1,99,149
+TOP83502,Clam sauce,0,69,99
+TOP86580,Capers,1,99,149
+TOP81251,Avocado,1,99,149
+TOP89138,BBQ chicken,0,99,149
+TOP85627,Swiss cheese,1,99,149
+TOP89914,Sardines,0,99,149
+TOP84584,Mixed greens,1,69,99
+TOP89788,Sriracha sauce,1,69,99
+TOP82367,Red pepper flakes,1,69,99
+TOP89976,Poblano peppers,1,99,149
+TOP83503,Pickles,1,99,149
+TOP86581,Ranch dressing,1,99,149
+TOP81252,Mandarin oranges,1,99,149
+TOP89139,Green chilies,1,69,99
+TOP85628,Scallions,1,99,149
+TOP89915,Duck,0,99,149
+TOP84567,Mashroom,1,99,149
+TOP89567,chicken,0,99,149
+TOP87362,pineapple,1,69,99
+TOP89321,sausage,0,19,49
+TOP84562,Paneer,1,99,149
+TOP87921,Sweet corn,1,69,99
+TOP81262,onion,1,69,99
+TOP89012,capsicum,1,69,99
+TOP87456,black olives,1,99,149
+TOP88923,jalapenos,1,99,149
